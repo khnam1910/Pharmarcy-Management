@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hufi\\NAM 3\\HKI\\CNPM\\doancnpm\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{782779E3-F83C-4CFC-9DAA-831C37DE237B}|Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc.csproj|d:\\hufi\\nam 3\\hki\\cnpm\\doancnpm\\nhom7_phanmemquanlyhieuthuoc\\nhom7_phanmemquanlyhieuthuoc\\nhom7_phanmemquanlyhieuthuoc\\frm_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{782779E3-F83C-4CFC-9DAA-831C37DE237B}|Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc.csproj|solutionrelative:nhom7_phanmemquanlyhieuthuoc\\frm_signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782779E3-F83C-4CFC-9DAA-831C37DE237B}|Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc.csproj|d:\\hufi\\nam 3\\hki\\cnpm\\doancnpm\\nhom7_phanmemquanlyhieuthuoc\\nhom7_phanmemquanlyhieuthuoc\\nhom7_phanmemquanlyhieuthuoc\\frm_forgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{782779E3-F83C-4CFC-9DAA-831C37DE237B}|Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc.csproj|solutionrelative:nhom7_phanmemquanlyhieuthuoc\\frm_forgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782779E3-F83C-4CFC-9DAA-831C37DE237B}|Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc.csproj|D:\\Hufi\\NAM 3\\HKI\\CNPM\\doancnpm\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\nhom7_phanmemquanlyhieuthuoc\\frm_signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782779E3-F83C-4CFC-9DAA-831C37DE237B}|Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc.csproj|solutionrelative:nhom7_phanmemquanlyhieuthuoc\\frm_signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782779E3-F83C-4CFC-9DAA-831C37DE237B}|Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc.csproj|D:\\Hufi\\NAM 3\\HKI\\CNPM\\doancnpm\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\nhom7_phanmemquanlyhieuthuoc\\frm_signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{782779E3-F83C-4CFC-9DAA-831C37DE237B}|Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc.csproj|solutionrelative:nhom7_phanmemquanlyhieuthuoc\\frm_signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\Hufi\\NAM 3\\HKI\\CNPM\\doancnpm\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\frm_SignUp.cs",
+              "RelativeDocumentMoniker": "Nhom7_PhanMemQuanLyHieuThuoc\\frm_SignUp.cs",
+              "ToolTip": "D:\\Hufi\\NAM 3\\HKI\\CNPM\\doancnpm\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\frm_SignUp.cs [Design]",
+              "RelativeToolTip": "Nhom7_PhanMemQuanLyHieuThuoc\\frm_SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:56:29.042Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_ForgetPassword.cs [Design]",
+              "DocumentMoniker": "D:\\Hufi\\NAM 3\\HKI\\CNPM\\doancnpm\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\frm_ForgetPassword.cs",
+              "RelativeDocumentMoniker": "Nhom7_PhanMemQuanLyHieuThuoc\\frm_ForgetPassword.cs",
+              "ToolTip": "D:\\Hufi\\NAM 3\\HKI\\CNPM\\doancnpm\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\frm_ForgetPassword.cs [Design]",
+              "RelativeToolTip": "Nhom7_PhanMemQuanLyHieuThuoc\\frm_ForgetPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T04:06:25.397Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_SignIn.cs",
+              "DocumentMoniker": "D:\\Hufi\\NAM 3\\HKI\\CNPM\\doancnpm\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\frm_SignIn.cs",
+              "RelativeDocumentMoniker": "Nhom7_PhanMemQuanLyHieuThuoc\\frm_SignIn.cs",
+              "ToolTip": "D:\\Hufi\\NAM 3\\HKI\\CNPM\\doancnpm\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\frm_SignIn.cs",
+              "RelativeToolTip": "Nhom7_PhanMemQuanLyHieuThuoc\\frm_SignIn.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAApwM0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T03:40:01.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_SignIn.cs [Design]",
+              "DocumentMoniker": "D:\\Hufi\\NAM 3\\HKI\\CNPM\\doancnpm\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\frm_SignIn.cs",
+              "RelativeDocumentMoniker": "Nhom7_PhanMemQuanLyHieuThuoc\\frm_SignIn.cs",
+              "ToolTip": "D:\\Hufi\\NAM 3\\HKI\\CNPM\\doancnpm\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\Nhom7_PhanMemQuanLyHieuThuoc\\frm_SignIn.cs [Design]",
+              "RelativeToolTip": "Nhom7_PhanMemQuanLyHieuThuoc\\frm_SignIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T03:39:53.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
